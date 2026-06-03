@@ -42,6 +42,13 @@ The confusion matrix showed that the model successfully identified the majority 
 ## Technologies Used
 Python was used as the primary programming language along with several popular data science libraries, including Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, XGBoost, Imbalanced-Learn, and Joblib.
 
+## Repository Structure
+README.md
+creditcard fraud detection notebook.ipynb
+best_model.pkl
+ROC curve.png
+Confusion Matrix.png
+
 ## Key Learnings
 Through this project, I gained practical experience in exploratory data analysis, handling imbalanced datasets, feature preprocessing, hyperparameter tuning, model evaluation, threshold optimization, and model persistence. The project also provided insight into the challenges associated with real-world fraud detection systems and the importance of selecting appropriate evaluation metrics for imbalanced classification problems.
 
