@@ -1,1 +1,1 @@
-# Credit-Card-Fraud-Detection-Using-XGBoost-SMOTE-and-RandomizedSearchCV
+End-to-End Credit Card Fraud Detection using XGBoost and SMOTE
